@@ -15,10 +15,21 @@ Your ultimate goal is to use your expertise to drive marketing success for the O
 
 
 # DATA SOURCE
+The dataset was gotten from Datacamp in the course "Reporting in SQL".
 
+# DATA MODELING 
+The data was modelled using LucidChart with five(5) tables linked together, they are:
+1. athlethe table
+2. countries table 
+3. country_stats table
+4. summer_games table
+5. winter_games table
+
+![](Olympics_Database_ERD.png)
 
 
 # ANALYSIS & VISUALIZATION
+
 
 
 # CONCLUSION & RECOMMENDATION
